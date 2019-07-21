@@ -113,7 +113,7 @@ git merger login #merge master and branch login
 ## Remote Repositories:
 * Sign-in to Github
 * Create a new repo
-* Copy ```bash git remote add origin '[link]' ``` and paste in bash. This adds remote repository
+* Copy ```git remote add origin '[link]' ``` and paste in bash. This adds remote repository
 ```bash 
 git remote #lists all the remote repository
 origin 
