@@ -30,7 +30,7 @@ git commit # commit changes to index
 
 ## Remote Repos commands: 
 
-``` bash
+```bash
 
 git push # push to remote repo
 git pull # pull latest from remote repo
